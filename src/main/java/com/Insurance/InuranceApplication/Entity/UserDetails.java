@@ -28,6 +28,7 @@ public class UserDetails {
     private AddressDetails permAddress;
 
 
+
     public long getId() {
         return id;
     }
